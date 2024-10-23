@@ -1,0 +1,14 @@
+.todo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .todo input {
+    margin-right: 10px;
+  }
+  
+  .todo.completed span {
+    text-decoration: line-through;
+  }
+  
